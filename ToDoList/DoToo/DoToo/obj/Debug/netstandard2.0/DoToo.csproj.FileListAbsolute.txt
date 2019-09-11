@@ -1,0 +1,12 @@
+D:\Projects\xamarin-forms-projects\Chapter02\DoToo\DoToo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\xamarin-forms-projects\Chapter02\DoToo\DoToo\obj\Debug\netstandard2.0\Views\ItemView.xaml.g.cs
+D:\Projects\xamarin-forms-projects\Chapter02\DoToo\DoToo\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+D:\Projects\xamarin-forms-projects\Chapter02\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.csproj.CoreCompileInputs.cache
+D:\Projects\xamarin-forms-projects\Chapter02\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfoInputs.cache
+D:\Projects\xamarin-forms-projects\Chapter02\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfo.cs
+D:\Projects\xamarin-forms-projects\Chapter02\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.deps.json
+D:\Projects\xamarin-forms-projects\Chapter02\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.dll
+D:\Projects\xamarin-forms-projects\Chapter02\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.pdb
+D:\Projects\xamarin-forms-projects\Chapter02\DoToo\DoToo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\xamarin-forms-projects\Chapter02\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.dll
+D:\Projects\xamarin-forms-projects\Chapter02\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.pdb

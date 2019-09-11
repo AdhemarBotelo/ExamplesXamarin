@@ -1,0 +1,1 @@
+D:\Projects\xamarin-forms-projects\Chapter02\DoToo\DoToo.UWP\DoToo.UWP.csproj;x86
